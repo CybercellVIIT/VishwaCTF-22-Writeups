@@ -1,9 +1,10 @@
-# Web 
 
-## Author:
+# Web Challenges
+
+### Author:
 [Kaustubh Bhule](https://www.linkedin.com/in/kaustubhbhule)
 
-## Challenges:
+### Challenges:
 * Strong Encryption
 * Todo List
 * Stock Bot
