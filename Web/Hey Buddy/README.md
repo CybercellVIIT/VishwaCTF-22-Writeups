@@ -3,7 +3,8 @@
 
 ![img](https://i.ibb.co/pdSMfVs/image.png)
 
-### Solution:
+
+## Solution:
 
 This challenge is developed using flask and it contains the SSTI (Server Side Template Injection) vulnerability. It has two steps to exploit.
 
