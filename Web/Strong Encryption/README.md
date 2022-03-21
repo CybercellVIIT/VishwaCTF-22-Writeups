@@ -49,7 +49,7 @@ $decTxt = decrypt($encTxt, "VishwaCTF");
 echo $decTxt;
 
 ```
-#
+
 
 ## Output:
 
