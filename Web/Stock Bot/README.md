@@ -11,6 +11,4 @@ This challenge includes LFI (Local File Inclusion) vulnerability. It fetch the d
 https://st0ck-b0t.vishwactf.com/Products/check.php?product=file:///opt/app-root/src/Products/Flag
 ```
 
-### Output
-
 ![img](https://i.ibb.co/HP59t4p/image1.png)
