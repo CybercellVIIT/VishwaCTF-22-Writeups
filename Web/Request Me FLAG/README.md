@@ -3,7 +3,7 @@
 
 ![img](https://i.ibb.co/17qwNqG/image.png)
 
-### Solution:
+## Solution:
 
 The challenge name itself contains the hint. `Request Me FLAG` means just change Request method `GET` to `FLAG` using burpsuite or curl.
 
