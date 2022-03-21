@@ -10,4 +10,3 @@ This is the simple example of SQL injection which you might know about already. 
 ![img](https://i.ibb.co/Pz58bT4/Screenshot-from-2022-03-21-15-34-07.png)
 
 ![img](https://i.ibb.co/98S4Nt2/image.png)
-
