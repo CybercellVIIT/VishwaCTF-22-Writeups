@@ -1,4 +1,4 @@
-\
+
 ## Hey Buddy!
 
 ![img](https://i.ibb.co/pdSMfVs/image.png)
