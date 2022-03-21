@@ -3,7 +3,7 @@
 
 ![img](https://i.ibb.co/TPBfXRN/image.png)
 
-### Solution:
+## Solution:
 
 This is the simple example of SQL injection which you might know about already. By entering `'OR'1'='1` in both of the inputs (username and password) will return the flag as a sweetalert.
 
