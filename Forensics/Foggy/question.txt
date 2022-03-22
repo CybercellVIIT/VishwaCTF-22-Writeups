@@ -1,0 +1,6 @@
+Challenge name: Foggy
+
+A crime scene leaves no abstract, just go and investigate the flag !
+our tech guy recommends to open the files in a folder...
+
+Flag:  vishwactf{justbecauseucantseeitdoesntmeanitsnotthere}
