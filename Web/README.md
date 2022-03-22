@@ -3,7 +3,6 @@
 ### Author:
 
 [Kaustubh Bhule](https://www.linkedin.com/in/kaustubhbhule)
-[Atul Patil](https://twitter.com/0xatulpatil)
 
 ### Challenges:
 
@@ -13,8 +12,6 @@
 - Hey Buddy
 - My Useless Website
 - Request Me FLAG
-- Keep Your Secrets
-- Flag .Collection
 
 ### Author:
 
