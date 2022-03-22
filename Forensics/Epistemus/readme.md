@@ -1,5 +1,5 @@
 # Epistemus
-Author : Rohit
+Author : <a href="https://github.com/RohitStark">Anil Chouhan</a>
 
 Title : Epistemus
 
