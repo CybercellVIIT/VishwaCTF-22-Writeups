@@ -3,6 +3,9 @@ Epistemus: This image goes hard, feel free to run diagnostics.
 ![img](https://github.com/CybercellVIIT/VishwaCTF-22-Writeups/blob/main/Forensics/Epistemus/patrick.jpg)
 Here, we are given a photo of Patrick that seems to have a github link hiding in plain sight
 We use stegsolve to accurately identify the link
+
+![image](https://user-images.githubusercontent.com/55281657/159537515-55cdc996-e224-4b56-bbed-1d096cf60576.png)
+
  
 The GitHub Repository contains one file to lead challengers astray and two important files to complete the challenge:
  
