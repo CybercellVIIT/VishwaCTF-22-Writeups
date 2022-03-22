@@ -1,0 +1,7 @@
+Challenge name: So Forgetful !
+
+Once my friend was connected to my network, he did some office work and left. Next day he called me that he forgot his password, and wanted me to rescue him <3
+
+Flag format: vishwactf{pass}
+
+Flag: vishwactf{R6AKNhWwo7}
