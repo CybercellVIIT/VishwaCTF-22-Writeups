@@ -32,6 +32,8 @@ After extracting, we find multiple copies of a file
 One specific text file has the info we need, i.e,
 Bomb – copy(69) ,we just have to ctrl F the file for ‘flag’ and voila
 VishwaCTF{th1ng$_a43_n0t_wh4t_th3y_4lw4y$_$33m}
+![image](https://user-images.githubusercontent.com/55281657/159537960-4bdb20f5-322e-4b5b-9143-9c61befd6c82.png)
+
  
 
 
