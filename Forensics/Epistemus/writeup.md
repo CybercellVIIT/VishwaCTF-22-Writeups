@@ -8,6 +8,8 @@ We use stegsolve to accurately identify the link
 
  
 The GitHub Repository contains one file to lead challengers astray and two important files to complete the challenge:
+![image](https://user-images.githubusercontent.com/55281657/159537774-0f29fd61-176a-4e6c-9e78-7ebbdfafbe05.png)
+
  
 README.md contained the following line of text:
 Arire tbaan tvir lbh hc Arire tbaan yrg lbh qbja Arire tbaan eha nebhaq naq qrfreg lbh Arire tbaan znxr lbh pel Arire tbaan fnl tbbqolr Arire tbaan gryy n yvr naq uheg lbh
