@@ -2,6 +2,8 @@
 
 Title : So Forgetful
 
+Author : Atharva Pande
+
 Category : Forensics
 
 Scoring : Dynamic
