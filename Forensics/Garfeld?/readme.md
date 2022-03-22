@@ -1,6 +1,6 @@
 # Garfeld?
 
-Author : Jay
+Author : <a href="https://github.com/JaySubhedar">Jay Subhedar</a>
 
 Title : Garfeld?
 
@@ -12,7 +12,7 @@ Points : 478
 
 Description : Garfeld can hide secrets pretty well.
 
-Flags : VishwaCTF{th1ng$_a43_n0t_wh4t_th3y_4lw4y$_$33m}
+Flags : vishwaCTF{i_heckin_love_lasagna}
 
 Files : Garfield.wav
 
