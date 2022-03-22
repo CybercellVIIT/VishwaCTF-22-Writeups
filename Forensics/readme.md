@@ -13,7 +13,7 @@
 
 Atharva Pande
 
-1)So Forgetful!
+1) So Forgetful!
 
-2)Foggy
+2) Foggy
 
