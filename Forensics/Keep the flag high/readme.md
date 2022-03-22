@@ -1,6 +1,6 @@
 # Keep the flag high
 
-Author : Tejas <a href = "https://github.com/tejasware",<a>Tejas Ware</a>
+Author : <a href = "https://github.com/tejasware"><a>Tejas Ware</a>
 
 Title : Keep the flag high
 
