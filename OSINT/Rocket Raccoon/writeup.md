@@ -29,8 +29,6 @@ Twitter.com/JohnsonM3llisa gives us some result
 
 The account is all about the owner's pet and we see some tweets.The latest tweet says  OOPS! Almost leaked some private information, hope there is no way to get it back haha.
 
-![image](https://user-images.githubusercontent.com/55281657/159558635-5b1b2359-ab3c-4bcc-877b-0a09f9777a81.png)
-
  
 Is there someway to get deleted tweets back? There is!
 The hint in the tweet was "way to get it back"
