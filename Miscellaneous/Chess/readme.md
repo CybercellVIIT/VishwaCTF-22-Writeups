@@ -11,9 +11,14 @@ Kh8
 Qa3                                  
 Rf1                                   
 f2
+
+
 black pieces
+
 Kh2
+
 Bb8 and Bh5
+
 c3,f3,g4,f6
 
 I believe a chessboard looks like this
