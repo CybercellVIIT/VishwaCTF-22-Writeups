@@ -6,11 +6,15 @@ PROBLEM STATEMENT :
 
 my friend Beaufort challenged me to solve a chess problem and also said that "In this game stability is the key. Can you find the final position in this: White-to-play    Mate-in-4
 the pieces are on the board as follows:
-white pieces                   black pieces
-Kh8                                  Kh2
-Qa3                                  Bb8 and Bh5
-Rf1                                    c3,f3,g4,f6
+white pieces                   
+Kh8                                  
+Qa3                                  
+Rf1                                   
 f2
+black pieces
+Kh2
+Bb8 and Bh5
+c3,f3,g4,f6
 
 I believe a chessboard looks like this
 Flag : vishwaCTF{EVERY_MOVE_MUST_HAVE_A_PURPOSE}
