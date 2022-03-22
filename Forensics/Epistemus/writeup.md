@@ -22,6 +22,9 @@ I dｏｎ't ｔhiｎk tｈⅰs iｓ the ｒｉght plaｃe to be 
 
 At first look, it looks like some gibberish, but this is a classic case of Homoglyph Steganography.
 Using the link: http://holloway.co.nz/steg/
+![image](https://user-images.githubusercontent.com/55281657/159537843-01bbceec-cef1-45d4-9424-ddd6e47d6095.png)
+![image](https://user-images.githubusercontent.com/55281657/159537874-73f501d6-bebd-41cc-9fe3-0fa34dd8a1a2.png)
+
  
  
 This is indeed the password for the .rar file
