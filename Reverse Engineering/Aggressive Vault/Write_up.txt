@@ -1,0 +1,40 @@
+
+First dry run: No output
+
+After analizing the binary found:
+  [ExE argument]:
+    -> Exe accpets an argument
+    -> The string is opened as a file
+    -> The file needs to exist
+    -> The argument is used to work upon the arra of bytes
+  
+  [Array of bytes]:
+    -> Are being processed upon and finally written to a file. 
+    -> Output is in an image file
+   
+  [An ascii string just there]
+    -> Points to VishwaCTF website
+    -> The site only has one image
+  
+  Steps to solve:
+  
+    -> Dowload img on site, keep exe and img in same directory
+    -> Open run exe with img name
+    [ Output ]
+      program leaks memory, before exiting abnormally
+      the img file is changed (possibly corrupted or empty)
+      
+    -> After more analyzing, you find the memory leak, block that function call, remake the exe
+    -> Open with the img name with img in same directory, img is changed to the flag
+    
+    
+    [Incase img not found]
+    -> Experienced solvers may realize its an encrypted img right away, after reversing the encryption steps, 
+       Keys can be tried out to get the expected headder bytes, correct format can be identified from them by looking 
+       at the meaningful key string
+       creating a file with that name, blocking the mem leak call, the file will be built with your flag in it! 
+    
+--- More about encryption ---     
+
+  -> It's just exoring bits of a bmp image with the key string
+ 
