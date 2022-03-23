@@ -19,7 +19,7 @@ Entering this in the specified format takes us to the next step -
 
 ![image](https://user-images.githubusercontent.com/91563327/159546411-3d6555e5-ea88-4d20-813a-2124612ee838.png)
 
-We have the name of the book in the statement itself. So searching for The Son of Neptune seer leads us to Phineas (multiple sources for this - [the Wikipedia page](https://en.wikipedia.org/wiki/The_Son_of_Neptune), [the Wiki page](https://riordan.fandom.com/wiki/The_Son_of_Neptune), summaries). 
+We have the name of the book in the statement itself. So searching for The Son of Neptune seer leads us to Phineus (multiple sources for this - [the Wikipedia page](https://en.wikipedia.org/wiki/The_Son_of_Neptune), [the Wiki page](https://riordan.fandom.com/wiki/The_Son_of_Neptune), summaries). 
 From the next sentence we look around for Phineus in mythology - searching for Phineus seer mythology leads us to multiple pages ([Wikipedia](https://en.wikipedia.org/wiki/Phineus), [greekmythology sites](https://www.greekmythology.com/Myths/Mortals/Phineus/phineus.html)) which contain the required information - The Golden Fleece (Golden Fleece is an accepted submission as well, no case sensitivity)
 
 ![image](https://user-images.githubusercontent.com/91563327/159546668-4eed2004-4454-48ac-aaf3-fb0f8a5509ee.png)
