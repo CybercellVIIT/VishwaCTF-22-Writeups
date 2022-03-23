@@ -8,7 +8,7 @@ solution:
 
 From the challenge name and description, which has the words 'inorder' italicized, we can deduce that the challenge talks about inorder traversal of a binary tree
 From the given array we can simply traverse and output the ASCII converted characters to get the flag
-This can also be done manually, but a possible C++ code for the same is as provided in the Tree2.cpp
+This can also be done manually, but a possible C++ code for the same is as provided in the solution.cpp
 
 
 
