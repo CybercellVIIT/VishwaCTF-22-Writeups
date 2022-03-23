@@ -1,0 +1,12 @@
+---=== Writeup ===---
+
+
+The provided file is just a meme image with first 2 bytes changed, 
+small moral boost for the biggener programers.
+
+Solving:
+  -> Change first 2 byts to [ B ] [ M ] 
+      ( this fixes the headder )
+      
+  
+
