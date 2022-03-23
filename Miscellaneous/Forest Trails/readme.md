@@ -4,7 +4,7 @@ Also, here's something totally unrelated that you might find
 interesting.
 
 084 082 051 123 048 082 084 097 051 072 095 051 087 080 083 104 084 082 095 095 095 077 072 084 051 072 049 095 078 051 089 105 119 067 070 084 051 083 052 051 084 051 080 051 083 084 052 095 072 095 052 084 095 082 084 083 085 048 095 072 095 075 125 118 115
-splution:
+solution:
 
 From the challenge name and description, which has the words 'inorder' italicized, we can deduce that the challenge talks about inorder traversal of a binary tree
 From the given array we can simply traverse and output the ASCII converted characters to get the flag
