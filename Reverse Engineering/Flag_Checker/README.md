@@ -1,4 +1,4 @@
-# Confusion
+# Flag Checker
 
 **Category:** reversing
 
